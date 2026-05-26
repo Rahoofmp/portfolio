@@ -291,7 +291,7 @@ export default function Portfolio() {
                     <div className="p-3 rounded-full border border-white/10 bg-white/5 text-fuchsia-300">
                       <Laptop className="w-5 h-5" />
                     </div>
-                    <div className="text-xs uppercase tracking-[0.3em] text-white/40 mt-1">2026 — Now</div>
+                    <div className="text-xs uppercase tracking-[0.3em] text-white/80 mt-1">2026 — Now</div>
                   </div>
                   <div className="md:col-span-6">
                     <h3 className="font-display text-2xl md:text-4xl font-semibold tracking-tight mb-3 group-hover:text-fuchsia-200 transition-colors">PHP Laravel & Next.js Developer</h3>
@@ -313,7 +313,7 @@ export default function Portfolio() {
                     <div className="p-3 rounded-full border border-white/10 bg-white/5 text-cyan-300">
                       <Layout className="w-5 h-5" />
                     </div>
-                    <div className="text-xs uppercase tracking-[0.3em] text-white/40 mt-1">2025 — 2026</div>
+                    <div className="text-xs uppercase tracking-[0.3em] text-white/80 mt-1">2025 — 2026</div>
                   </div>
                   <div className="md:col-span-6">
                     <h3 className="font-display text-2xl md:text-4xl font-semibold tracking-tight mb-3 group-hover:text-fuchsia-200 transition-colors">PHP Laravel & Angular Developer</h3>
@@ -335,7 +335,7 @@ export default function Portfolio() {
                     <div className="p-3 rounded-full border border-white/10 bg-white/5 text-purple-400">
                       <Terminal className="w-5 h-5" />
                     </div>
-                    <div className="text-xs uppercase tracking-[0.3em] text-white/40 mt-1">2023 — 2025</div>
+                    <div className="text-xs uppercase tracking-[0.3em] text-white/80 mt-1">2023 — 2025</div>
                   </div>
                   <div className="md:col-span-6">
                     <h3 className="font-display text-2xl md:text-4xl font-semibold tracking-tight mb-3 group-hover:text-fuchsia-200 transition-colors">PHP CodeIgniter Developer</h3>
@@ -448,7 +448,7 @@ export default function Portfolio() {
                     <h3 className="font-display text-3xl md:text-5xl font-bold tracking-tight text-white mb-3 leading-tight">Scalable E-Commerce Platform</h3>
                     <p className="text-white/80 max-w-md mb-4">High-performance multi-vendor e-commerce with integrated payment gateways, inventory and order management.</p>
                     <div className="flex flex-wrap gap-2">
-                      <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Laravel</span>
+                      <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">CodeIgniter</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">MySQL</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Payment Gateways</span>
                     </div>
@@ -468,7 +468,7 @@ export default function Portfolio() {
                     <h3 className="font-display text-3xl md:text-5xl font-bold tracking-tight text-white mb-3 leading-tight">Blockchain MLM Platform</h3>
                     <p className="text-white/80 max-w-md mb-4">Multi-level marketing platform powered by smart contracts and multi-currency crypto transactions.</p>
                     <div className="flex flex-wrap gap-2">
-                      <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">PHP</span>
+                      <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Laravel</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Smart Contracts</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Web3</span>
                     </div>
@@ -488,7 +488,6 @@ export default function Portfolio() {
                     <h3 className="font-display text-3xl md:text-5xl font-bold tracking-tight text-white mb-3 leading-tight">Custom CRM / ERP Suite</h3>
                     <p className="text-white/80 max-w-md mb-4">Modular CRM and ERP solution with rich admin dashboards, role-based access and real-time analytics.<br /><span className="text-amber-300/90 text-sm mt-1 block">Credentials: admin / 123456</span></p>
                     <div className="flex flex-wrap gap-2">
-                      <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Next.js</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Laravel</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">REST API</span>
                     </div>
@@ -509,7 +508,6 @@ export default function Portfolio() {
                     <h3 className="font-display text-3xl md:text-5xl font-bold tracking-tight text-white mb-3 leading-tight">Project Management Tool</h3>
                     <p className="text-white/80 max-w-md mb-4">Team collaboration platform with task boards, time tracking and reporting — built end-to-end.</p>
                     <div className="flex flex-wrap gap-2">
-                      <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Next.js</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Laravel</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">WebSockets</span>
                     </div>
