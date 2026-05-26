@@ -173,10 +173,10 @@ export default function Portfolio() {
           </a>
         </nav>
 
-        <section id="home" ref={heroRef} className="relative min-h-[80vh] flex flex-col justify-between pb-10 px-6 md:px-10 overflow-hidden">
+        <section id="home" ref={heroRef} className="relative min-h-[65vh] md:min-h-[80vh] flex flex-col justify-between pb-10 px-6 md:px-10 overflow-hidden">
           <div className="aurora-bg"></div>
           <div className="noise-overlay"></div>
-          <div className="relative z-10 flex-1 flex flex-col justify-center">
+          <div className="relative z-10 flex-1 flex flex-col justify-start pt-32 pb-48 md:pb-0 md:justify-center md:pt-0">
             <div className="flex items-center gap-3 mb-6">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
               <span className="text-xs uppercase tracking-[0.4em] text-white/60">Available for projects · 2026</span>
