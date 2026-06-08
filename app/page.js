@@ -475,7 +475,7 @@ export default function Portfolio() {
                   </div>
                 </div>
               </div>
-              <a href="https://stock-demo.metacryptonex.com/login" target="_blank" rel="noopener noreferrer" className="project-card group relative overflow-hidden rounded-3xl aspect-[4/3] cursor-pointer">
+              <a href="https://stock-demo.clutchblue.com/" target="_blank" rel="noopener noreferrer" className="project-card group relative overflow-hidden rounded-3xl aspect-[4/3] cursor-pointer">
                 <Image src="/bg_crm.jpeg" alt="CRM Background" fill unoptimized className="object-cover transition-transform duration-1000 group-hover:scale-105" />
                 <div className="absolute inset-0 noise-overlay opacity-30"></div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent"></div>
@@ -514,7 +514,7 @@ export default function Portfolio() {
                   </div>
                 </div>
               </a>
-              <a href="https://brandingwebsite.clutchblue.com/" target="_blank" rel="noopener noreferrer" className="project-card group relative overflow-hidden rounded-3xl aspect-[4/3] cursor-pointer">
+              <a href="http://animativebranding.clutchblue.com/" target="_blank" rel="noopener noreferrer" className="project-card group relative overflow-hidden rounded-3xl aspect-[4/3] cursor-pointer">
                 <Image src="/bg_branding.jpeg" alt="Branding Website Background" fill unoptimized className="object-cover transition-transform duration-1000 group-hover:scale-105" />
                 <div className="absolute inset-0 noise-overlay opacity-30"></div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent"></div>
@@ -529,6 +529,27 @@ export default function Portfolio() {
                     <div className="flex flex-wrap gap-2">
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Next.js</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">GSAP</span>
+                      <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Tailwind</span>
+                    </div>
+                  </div>
+                </div>
+              </a>
+
+              <a href="https://charcole-potrait.cartend.in/" target="_blank" rel="noopener noreferrer" className="project-card group relative overflow-hidden rounded-3xl aspect-[4/3] cursor-pointer md:col-span-2 md:aspect-[16/7]">
+                <Image src="/bg_charcoal.png" alt="Charcoal Portrait Portfolio Background" fill unoptimized className="object-cover transition-transform duration-1000 group-hover:scale-105" />
+                <div className="absolute inset-0 noise-overlay opacity-30"></div>
+                <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent"></div>
+                <div className="absolute inset-0 p-8 md:p-12 flex flex-col justify-between">
+                  <div className="flex items-start justify-between">
+                    <span className="text-xs uppercase tracking-[0.3em] text-white/80 px-3 py-1 rounded-full border border-white/30 bg-black/20 backdrop-blur-sm">Artisan Portfolio</span>
+                    <ExternalLink className="w-6 h-6 text-white/80 group-hover:rotate-45 transition-transform" />
+                  </div>
+                  <div>
+                    <h3 className="font-display text-3xl md:text-5xl font-bold tracking-tight text-white mb-3 leading-tight">Charcoal Portrait Artist</h3>
+                    <p className="text-white/80 max-w-md mb-4">Elegant personal branding website showcasing fine charcoal artwork with commissions booking and live galleries.</p>
+                    <div className="flex flex-wrap gap-2">
+                      <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Next.js</span>
+                      <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Framer Motion</span>
                       <span className="text-[10px] uppercase tracking-widest px-2 py-1 rounded-full bg-white/10 backdrop-blur-sm text-white">Tailwind</span>
                     </div>
                   </div>
