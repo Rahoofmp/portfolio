@@ -435,7 +435,7 @@ export default function Portfolio() {
               </div>
             </div>
             <div className="grid md:grid-cols-2 gap-6">
-              <div className="project-card group relative overflow-hidden rounded-3xl aspect-[4/3] cursor-pointer md:col-span-2 md:aspect-[16/7]">
+              <a href="https://ausome.ae/" target="_blank" rel="noopener noreferrer" className="project-card group relative overflow-hidden rounded-3xl aspect-[4/3] cursor-pointer md:col-span-2 md:aspect-[16/7]">
                 <Image src="/bg_ecommerce.png" alt="E-Commerce Background" fill unoptimized className="object-cover transition-transform duration-1000 group-hover:scale-105" />
                 <div className="absolute inset-0 noise-overlay opacity-30"></div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent"></div>
@@ -454,7 +454,7 @@ export default function Portfolio() {
                     </div>
                   </div>
                 </div>
-              </div>
+              </a>
               <div className="project-card group relative overflow-hidden rounded-3xl aspect-[4/3] cursor-pointer">
                 <Image src="/bg_blockchain.png" alt="Blockchain Background" fill unoptimized className="object-cover transition-transform duration-1000 group-hover:scale-105" />
                 <div className="absolute inset-0 noise-overlay opacity-30"></div>
